@@ -1,7 +1,7 @@
 # react-native-blackjack
 BlackJack game in React Native for iOS and Android
 
-#How to install
+# How to install
 
 ```
 1 .- Clone this project
